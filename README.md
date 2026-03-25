@@ -1,6 +1,6 @@
 # Hi 👋, I'm Irfan
 
-CS & Mathematics @ NYU Abu Dhabi (May 2026). I build at the intersection of quantitative finance, AI/ML, and software engineering.
+Computer Science @ NYU Abu Dhabi (May 2026). I build at the intersection of finance, AI/ML, and software engineering.
 
 Previously a Summer Analyst at Verition Fund Management, rotating across five trading desks. Currently leading the Business and Finance Society at NYUAD, running a Student Investment Fund, and building tools for event-driven investing.
 <!--
